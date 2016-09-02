@@ -1,0 +1,3 @@
+1.client端 多线程发送数据给cluster 
+
+2.cluster中ShardingManager是一个名称为ShardingManager的actor，主要用来接收client发送的消息，然后再转发到下面子actor中
